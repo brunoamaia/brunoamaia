@@ -40,3 +40,5 @@ Atualmente estou realizando alguns cursos, principalmente ligados à web (Java e
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunoamaia&layout=compact&theme=radical)
 
+![Snake animation](https://github.com/brunoamaia/brunoamaia/blob/output/github-contribution-grid-snake.svg)
+

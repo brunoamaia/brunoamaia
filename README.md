@@ -3,7 +3,7 @@
 <a href="mailto:brunoamaia94@gmail.com"><img src="https://img.shields.io/badge/Email:-FFFFFF?style=for-the-badge&logo=gmail&logoColor=red)"/></a>&nbsp;brunoamaia94@gmail.com
 
 
-Olá, sou o Bruno! Sempre fui muito curioso, sendo o que me motiva a buscar constantemente por conhecimentos. Devido á esta curiosidade, me graduei em Matemática Industrial, onde foi possível ter contato com diversos setores. Por ser apaixonado por tecnologia, decidi migrar para esta área.
+Olá, sou o Bruno! Sempre fui muito curioso, sendo o que me motiva a buscar constantemente por conhecimentos. Devido á esta curiosidade, me graduei em Matemática Industrial, onde foi possível ter contato com diversos setores. Por ser apaixonado por tecnologia, decidi migrar a área de desenvolvimento.
 
 Para conhecer um pouco do universo da programação, tive contato com algumas linguagens, frameworks, bibliotecas e gerenciadores. Nem todos os projetos que desenvolvo ou replico durante meus estudos estão disponíveis aqui. Muitos projetos que considero muito simples, ou utilizei apenas para testar uma funcionalidade, não são adicionados.
 
